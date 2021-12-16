@@ -1,5 +1,6 @@
 # memegenerator
-An R package for saving and viewing my favourite statistics memes. To use, run the following in R
+
+My very favourite package, purpose built for well mannered statistical frivolity. To use, run the following in R
 
 install.packages("remotes")
 
